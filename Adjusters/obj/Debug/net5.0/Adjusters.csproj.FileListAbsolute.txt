@@ -1,0 +1,5 @@
+D:\COH\DevServerCode\ServerData\bin\tools\Adjusters\obj\Debug\net5.0\Adjusters.csproj.AssemblyReference.cache
+D:\COH\DevServerCode\ServerData\bin\tools\Adjusters\obj\Debug\net5.0\Adjusters.GeneratedMSBuildEditorConfig.editorconfig
+D:\COH\DevServerCode\ServerData\bin\tools\Adjusters\obj\Debug\net5.0\Adjusters.AssemblyInfoInputs.cache
+D:\COH\DevServerCode\ServerData\bin\tools\Adjusters\obj\Debug\net5.0\Adjusters.AssemblyInfo.cs
+D:\COH\DevServerCode\ServerData\bin\tools\Adjusters\obj\Debug\net5.0\Adjusters.csproj.CoreCompileInputs.cache
