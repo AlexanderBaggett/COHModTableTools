@@ -23,3 +23,8 @@ You can copy and paste to and from the app and your .def files
 
 The .sln file is in the PowerSetAdujusterFolder
 It requires VS 2022 to run
+
+## Releases / Pre-built
+
+
+### [v 1.0](https://github.com/AlexanderBaggett/COHModTableTools/releases)
